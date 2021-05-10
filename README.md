@@ -10,7 +10,7 @@ package main
 
 import (
 	"fmt"
-	gointtoletters "github.com/arturwwl/go-int-to-letters"
+	gointtoletters "github.com/arturwwl/gointtoletters"
 )
 
 func main() {
