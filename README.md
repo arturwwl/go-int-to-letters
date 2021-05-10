@@ -18,6 +18,7 @@ func main() {
 	fmt.Println(gointtoletters.IntToLetters(26))// print Z
 	fmt.Println(gointtoletters.IntToLetters(27))// print AA
 	fmt.Println(gointtoletters.IntToLetters(1996))// print BXT
+	fmt.Println(gointtoletters.IntToLetters(787428))// print ARTUR
 
 	return
 }
